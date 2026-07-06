@@ -16,3 +16,11 @@ It includes basic concepts,problem-solving exercises and implementation of vario
 -Pointers
 -Object-oriented programming (OOPs)
 -File Handling
+## Goals
+-Strengthen C++ fundamnetals
+-Build strong problem-solving skills
+-Write clean and efficient code
+## Language 
+C++
+## Progress
+I regularly update this repository as I learn new concepts and solve more problems.

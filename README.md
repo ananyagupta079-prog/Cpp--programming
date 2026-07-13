@@ -1,7 +1,10 @@
-# C++ Programs
+# C++ Programming
 Welcome to my C++ Programs repository!
-This repository contains C++ programs that I have written while learning programming.
-It includes basic concepts,problem-solving exercises and implementation of various programming topics
+This repository contains well-organized C++ programs
+covering core programming concepts,Object-Oriented
+Programming(OOP),and file handling.
+Each topic is structured into folders with beginner-friendly
+examples for learning and revision
 
 ## Topics Covered
 -Basics of C++
